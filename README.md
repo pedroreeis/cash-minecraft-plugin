@@ -1,2 +1,2 @@
 # cash-minecraft-plugin
-Simples plugins de cash, com suporte a placeholderapi, config.yml, mysql e sqlite.
+Simples plugins de cash, config.yml, mysql e sqlite.
