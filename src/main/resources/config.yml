@@ -1,0 +1,6 @@
+MySQL:
+  ativar: false
+  usuario: root
+  senha: ''
+  host: localhost:3306
+  database: test
