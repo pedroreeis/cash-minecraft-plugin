@@ -1,6 +1,0 @@
-name: CashPlugin
-version: 1.0
-main: com.queendev.cash.Cash
-author: queenDEV_
-commands:
-  cash:
